@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\models\\thvcomputers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\models\\thvcomputertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\models\\thvcomputertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\controllers\\thvcomputerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\controllers\\thvcomputerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\controllers\\thvhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\controllers\\thvhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\models\\thvcomputertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\models\\thvcomputertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -122,9 +122,9 @@
               "Title": "thvComputers.cs",
               "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Models\\thvComputers.cs",
               "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Models\\thvComputers.cs",
-              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Models\\thvComputers.cs",
-              "RelativeToolTip": "TranHoangViet_231230961_de01\\Models\\thvComputers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Models\\thvComputers.cs*",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Models\\thvComputers.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T00:41:44.755Z",
               "EditorCaption": ""
@@ -139,12 +139,11 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T01:23:25.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T01:23:25.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "thvComputerText.cs",
               "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Models\\thvComputerText.cs",
               "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Models\\thvComputerText.cs",
@@ -157,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "thvHomeController.cs",
               "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Controllers\\thvHomeController.cs",
               "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Controllers\\thvHomeController.cs",
@@ -165,12 +164,11 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Controllers\\thvHomeController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T01:21:44.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T01:21:44.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "thvComputersController.cs",
               "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Controllers\\thvComputersController.cs",
               "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Controllers\\thvComputersController.cs",
@@ -178,8 +176,7 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Controllers\\thvComputersController.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAAgwGwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T01:37:25.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T01:37:25.108Z"
             },
             {
               "$type": "Document",
@@ -189,7 +186,7 @@
               "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Views\\thvComputers\\thvCreate.cshtml",
               "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\thvComputers\\thvCreate.cshtml",
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\thvComputers\\thvCreate.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwCcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-24T01:40:33.946Z",
               "EditorCaption": ""
@@ -204,8 +201,7 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Models\\thvErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T01:17:24.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T01:17:24.738Z"
             },
             {
               "$type": "Document",
@@ -217,8 +213,7 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Migrations\\thvComputerTextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T01:56:11.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T01:56:11.11Z"
             },
             {
               "$type": "Document",
@@ -230,8 +225,7 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\thvComputers\\thvIndex.cshtml",
               "ViewState": "AgIAABcAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T01:40:54.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T01:40:54.38Z"
             },
             {
               "$type": "Document",
@@ -243,8 +237,7 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\thvHome\\thvContact.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T01:34:10.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T01:34:10.597Z"
             },
             {
               "$type": "Document",
@@ -256,8 +249,7 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T01:22:41.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T01:22:41.251Z"
             },
             {
               "$type": "Document",
@@ -269,8 +261,7 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\thvHome\\thvPrivacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T01:27:47.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T01:27:47.946Z"
             },
             {
               "$type": "Document",
@@ -282,8 +273,7 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Migrations\\20251024011039_v1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T01:10:39.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T01:10:39.985Z"
             },
             {
               "$type": "Document",
@@ -295,8 +285,7 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\Shared\\_thvLayout.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAACCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T01:22:21.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T01:22:21.541Z"
             },
             {
               "$type": "Document",
@@ -308,8 +297,7 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\thvComputers\\thvEdit.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T01:44:32.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T01:44:32.047Z"
             },
             {
               "$type": "Document",
@@ -321,8 +309,7 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\thvComputers\\thvDelete.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T01:40:18.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T01:40:18.579Z"
             },
             {
               "$type": "Document",
@@ -334,8 +321,7 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T00:51:07.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T00:51:07.756Z"
             },
             {
               "$type": "Document",
@@ -347,8 +333,7 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T01:25:34.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T01:25:34.569Z"
             },
             {
               "$type": "Document",
@@ -360,8 +345,7 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\thvHome\\thvIndex.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T01:25:35.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T01:25:35.292Z"
             },
             {
               "$type": "Document",
@@ -373,8 +357,7 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\thvComputers\\thvDetails.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T01:40:44.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T01:40:44.392Z"
             },
             {
               "$type": "Document",
@@ -386,8 +369,7 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-24T01:27:44.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T01:27:44.728Z"
             },
             {
               "$type": "Document",
@@ -399,8 +381,7 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-24T01:25:47.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T01:25:47.099Z"
             },
             {
               "$type": "Document",
@@ -412,8 +393,7 @@
               "RelativeToolTip": "TranHoangViet_231230961_de01\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-24T00:48:28.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T00:48:28.547Z"
             }
           ]
         }

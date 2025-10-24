@@ -285,3 +285,4 @@ E:\Code\Web\TranHoangViet_231230961_de01\TranHoangViet_231230961_de01\bin\Debug\
 E:\Code\Web\TranHoangViet_231230961_de01\TranHoangViet_231230961_de01\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 E:\Code\Web\TranHoangViet_231230961_de01\TranHoangViet_231230961_de01\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 E:\Code\Web\TranHoangViet_231230961_de01\TranHoangViet_231230961_de01\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\Code\Web\TranHoangViet_231230961_de01\TranHoangViet_231230961_de01\obj\Debug\net8.0\TranHoangViet_231230961_de01.sourcelink.json
