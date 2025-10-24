@@ -1,0 +1,49 @@
+﻿@model TranHoangViet_231230961_de01.Models.thvComputers
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>thvComputers</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="thvEdit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="thvComputersId" />
+            <div class="form-group">
+                <label asp-for="thvComputersName" class="control-label"></label>
+                <input asp-for="thvComputersName" class="form-control" />
+                <span asp-validation-for="thvComputersName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="thvComPrice" class="control-label"></label>
+                <input asp-for="thvComPrice" class="form-control" />
+                <span asp-validation-for="thvComPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="thvComImgae" class="control-label"></label>
+                <input asp-for="thvComImgae" class="form-control" />
+                <span asp-validation-for="thvComImgae" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="thvComStatus" /> @Html.DisplayNameFor(model => model.thvComStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="thvIndex">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

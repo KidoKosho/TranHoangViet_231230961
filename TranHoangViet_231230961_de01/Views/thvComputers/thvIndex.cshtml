@@ -1,0 +1,53 @@
+﻿@model IEnumerable<TranHoangViet_231230961_de01.Models.thvComputers>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="thvCreate">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.thvComputersName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.thvComPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.thvComImgae)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.thvComStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.thvComputersName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.thvComPrice)
+            </td>
+            <td>
+                    <img src="@item.thvComImgae" alt="Computer Image" width="100" />
+            </td>
+            <td>
+                @(item.thvComStatus?"Còn hàng ":"Hết hàng")
+            </td>
+            <td>
+                <a asp-action="thvEdit" asp-route-id="@item.thvComputersId">Edit</a> |
+                <a asp-action="thvDetails" asp-route-id="@item.thvComputersId">Details</a> |
+                <a asp-action="thvDelete" asp-route-id="@item.thvComputersId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

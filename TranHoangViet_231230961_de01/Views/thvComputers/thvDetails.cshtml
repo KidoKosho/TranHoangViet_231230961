@@ -1,0 +1,42 @@
+﻿@model TranHoangViet_231230961_de01.Models.thvComputers
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>thvComputers</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.thvComputersName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.thvComputersName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.thvComPrice)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.thvComPrice)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.thvComImgae)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.thvComImgae)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.thvComStatus)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.thvComStatus)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="thvEdit" asp-route-id="@Model?.thvComputersId">Edit</a> |
+    <a asp-action="thvIndex">Back to List</a>
+</div>

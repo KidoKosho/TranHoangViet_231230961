@@ -1,0 +1,401 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\models\\thvcomputers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\models\\thvcomputers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\controllers\\thvcomputerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\controllers\\thvcomputerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\controllers\\thvhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\controllers\\thvhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\models\\thvcomputertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\models\\thvcomputertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\views\\thvcomputers\\thvcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\views\\thvcomputers\\thvcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\models\\thverrorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\models\\thverrorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\migrations\\thvcomputertextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\migrations\\thvcomputertextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\views\\thvcomputers\\thvindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\views\\thvcomputers\\thvindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\views\\thvhome\\thvcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\views\\thvhome\\thvcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\views\\thvhome\\thvprivacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\views\\thvhome\\thvprivacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\migrations\\20251024011039_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\migrations\\20251024011039_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\views\\shared\\_thvlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\views\\shared\\_thvlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\views\\thvcomputers\\thvedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\views\\thvcomputers\\thvedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\views\\thvcomputers\\thvdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\views\\thvcomputers\\thvdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\views\\thvhome\\thvindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\views\\thvhome\\thvindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\views\\thvcomputers\\thvdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\views\\thvcomputers\\thvdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|e:\\code\\web\\tranhoangviet_231230961_de01\\tranhoangviet_231230961_de01\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{921E51DA-658D-445F-A79C-BA11F8519F5D}|TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01.csproj|solutionrelative:tranhoangviet_231230961_de01\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "thvComputers.cs",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Models\\thvComputers.cs",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Models\\thvComputers.cs",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Models\\thvComputers.cs",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Models\\thvComputers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:41:44.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:23:25.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "thvComputerText.cs",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Models\\thvComputerText.cs",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Models\\thvComputerText.cs",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Models\\thvComputerText.cs",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Models\\thvComputerText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:46:46.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "thvHomeController.cs",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Controllers\\thvHomeController.cs",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Controllers\\thvHomeController.cs",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Controllers\\thvHomeController.cs",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Controllers\\thvHomeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:21:44.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "thvComputersController.cs",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Controllers\\thvComputersController.cs",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Controllers\\thvComputersController.cs",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Controllers\\thvComputersController.cs",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Controllers\\thvComputersController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwGwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:37:25.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "thvCreate.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\thvComputers\\thvCreate.cshtml",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Views\\thvComputers\\thvCreate.cshtml",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\thvComputers\\thvCreate.cshtml",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\thvComputers\\thvCreate.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:40:33.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "thvErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Models\\thvErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Models\\thvErrorViewModel.cs",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Models\\thvErrorViewModel.cs",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Models\\thvErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:17:24.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "thvComputerTextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Migrations\\thvComputerTextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Migrations\\thvComputerTextModelSnapshot.cs",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Migrations\\thvComputerTextModelSnapshot.cs",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Migrations\\thvComputerTextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:56:11.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "thvIndex.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\thvComputers\\thvIndex.cshtml",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Views\\thvComputers\\thvIndex.cshtml",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\thvComputers\\thvIndex.cshtml",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\thvComputers\\thvIndex.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:40:54.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "thvContact.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\thvHome\\thvContact.cshtml",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Views\\thvHome\\thvContact.cshtml",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\thvHome\\thvContact.cshtml",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\thvHome\\thvContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:34:10.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:22:41.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "thvPrivacy.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\thvHome\\thvPrivacy.cshtml",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Views\\thvHome\\thvPrivacy.cshtml",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\thvHome\\thvPrivacy.cshtml",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\thvHome\\thvPrivacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:27:47.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20251024011039_v1.cs",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Migrations\\20251024011039_v1.cs",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Migrations\\20251024011039_v1.cs",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Migrations\\20251024011039_v1.cs",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Migrations\\20251024011039_v1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:10:39.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_thvLayout.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\Shared\\_thvLayout.cshtml",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Views\\Shared\\_thvLayout.cshtml",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\Shared\\_thvLayout.cshtml",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\Shared\\_thvLayout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:22:21.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "thvEdit.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\thvComputers\\thvEdit.cshtml",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Views\\thvComputers\\thvEdit.cshtml",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\thvComputers\\thvEdit.cshtml",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\thvComputers\\thvEdit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:44:32.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "thvDelete.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\thvComputers\\thvDelete.cshtml",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Views\\thvComputers\\thvDelete.cshtml",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\thvComputers\\thvDelete.cshtml",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\thvComputers\\thvDelete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:40:18.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Program.cs",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Program.cs",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Program.cs",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:51:07.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:25:34.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "thvIndex.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\thvHome\\thvIndex.cshtml",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Views\\thvHome\\thvIndex.cshtml",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\thvHome\\thvIndex.cshtml",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\thvHome\\thvIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:25:35.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "thvDetails.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\thvComputers\\thvDetails.cshtml",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Views\\thvComputers\\thvDetails.cshtml",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\thvComputers\\thvDetails.cshtml",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\thvComputers\\thvDetails.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:40:44.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-24T01:27:44.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\appsettings.json",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\appsettings.json",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\appsettings.json",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T01:25:47.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TranHoangViet_231230961_de01\\appsettings.Development.json",
+              "ToolTip": "E:\\Code\\Web\\TranHoangViet_231230961_de01\\TranHoangViet_231230961_de01\\appsettings.Development.json",
+              "RelativeToolTip": "TranHoangViet_231230961_de01\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T00:48:28.547Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
